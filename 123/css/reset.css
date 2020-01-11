@@ -1,0 +1,870 @@
+
+/* MEDIA SCREEN */
+
+@media(min-width:0px) and (max-width:320px) {
+    #img {
+        width: 90px;
+    }
+
+    #h1 {
+        text-align: center;
+        font-size: xx-small;
+        margin-right: 0px;
+    }
+
+    .phone {
+        font-size: small;
+        margin-top: -1rem;
+    }
+    #home-icon-img {
+display: none;
+    }
+
+    .navbar {
+        margin-bottom: 0px;
+        padding: 0.5rem 2rem;
+    }
+
+    .navbar-brand {
+        margin-right: 7rem;
+    }
+
+    #showcase {
+        height: 160%;
+    }
+
+    .d-none {
+        display: block;
+    }
+
+    .mb-5,
+    .my-5 {
+        margin-bottom: -3rem !important;
+    }
+
+    .lead {
+        font-size: 10px;
+        margin-top: -42px;
+    }
+
+    .display-3 {
+        font-size: 1rem;
+        margin-top: -10rem;
+    }
+
+    .br {
+        display: none;
+    }
+
+    .pt-5,
+    .py-5 {
+        padding-top: 0rem !important;
+        margin-top: 15px;
+    }
+
+    .home-icon {
+        height: auto;
+    }
+
+    .h3 {
+        font-size: 1rem;
+        color: #0a83ff;
+        text-align: center;
+    }
+
+    .paragraf {
+        font-size: 10px;
+    }
+
+    .fa-4x {
+        font-size: 2em;
+    }
+
+    #home-heading {
+        min-height: 55px;
+        background-size: 100px;
+    }
+
+    #info {
+        margin-top: 15px;
+        height: 390%;
+    }
+
+    #video {
+        min-height: 55px;
+        background-size: 100px;
+    }
+
+    .img-fluid {
+        display: none;
+    }
+
+    #gallery {
+        margin-top: 2rem;
+    }
+
+    #texth1 {
+        margin-top: 30px;
+        font-size: 1.3rem;
+    }
+
+    .m-1 p {
+        font-size: 10px;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 0rem;
+    }
+
+    #address {
+        font-size: 9px;
+        margin-top: -1rem;
+    }
+
+    #title {
+        margin-left: 1rem;
+        font-size: 1rem;
+    }
+
+    .title {
+        margin-right: -5rem;
+        font-size: 1rem;
+    }
+
+    .btmspace-10 {
+        margin-right: -5rem;
+        font-size: 9px;
+        display: grid;
+    }
+
+    #p {
+        font-size: 8px;
+        margin-right: -5rem;
+    }
+
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 9px;
+    }
+}
+
+@media(min-width:321px) and (max-width:480px) {
+    #img {
+        width: 90px;
+    }
+
+    #h1 {
+        text-align: center;
+        font-size: xx-small;
+        margin-right: 0px;
+    }
+
+    .phone {
+        font-size: small;
+        margin-top: -1rem;
+    }
+
+    #showcase {
+        height: 160%;
+    }
+    #home-icon-img {
+        display: none;
+    }
+    #gl-hr {
+        display: none;
+    }
+    
+    .d-none {
+        display: block;
+    }
+
+    .mb-5,
+    .my-5 {
+        margin-bottom: -3rem !important;
+    }
+
+    .lead {
+        font-size: 10px;
+        margin-top: -42px;
+    }
+
+    .display-3 {
+        font-size: 1rem;
+        margin-top: -10rem;
+    }
+
+    .br {
+        display: none;
+    }
+
+    .pt-5,
+    .py-5 {
+        padding-top: 0rem !important;
+        margin-top: 15px;
+    }
+
+    .home-icon {
+        height: auto;
+    }
+
+    .h3 {
+        font-size: 1rem;
+        color: #0a83ff;
+        text-align: center;
+    }
+
+    .paragraf {
+        font-size: 10px;
+    }
+
+    .fa-4x {
+        font-size: 2em;
+    }
+
+    #home-heading {
+        min-height: 55px;
+        background-size: 100px;
+    }
+
+    #info {
+        margin-top: 15px;
+        height: 255%;
+    }
+
+    #video {
+        min-height: 55px;
+        background-size: 100px;
+    }
+
+    .img-fluid {
+        display: none;
+    }
+
+    #gallery {
+        margin-top: 2rem;
+    }
+
+    #texth1 {
+        margin-top: 70px;
+        font-size: 1.3rem;
+    }
+
+    .m-1 p {
+        font-size: 10px;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 0rem;
+    }
+
+    #address {
+        font-size: 9px;
+        margin-top: -1rem;
+    }
+
+    #title {
+        margin-left: 1rem;
+        font-size: 1rem;
+    }
+
+    .title {
+        margin-right: -5rem;
+        font-size: 1rem;
+    }
+
+    .btmspace-10 {
+        margin-right: -5rem;
+        font-size: 9px;
+        display: grid;
+    }
+
+    #p {
+        font-size: 9px;
+        margin-right: -5rem;
+    }
+
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 9px;
+    }
+}
+
+@media(min-width:481px) and (max-width:575px) {
+    #img {
+        width: 90px;
+    }
+
+    #h1 {
+        text-align: center;
+        font-size: xx-small;
+        margin-right: 0px;
+    }
+
+    .phone {
+        font-size: small;
+        margin-top: -1rem;
+    }
+
+    #showcase {
+        height: 160%;
+    }
+    #home-icon-img {
+        display: none;
+    }
+    
+    .d-none {
+        display: block;
+    }
+
+    .mb-5,
+    .my-5 {
+        margin-bottom: -3rem !important;
+    }
+
+    .lead {
+        font-size: 10px;
+        margin-top: -42px;
+    }
+
+    .display-3 {
+        font-size: 1rem;
+        margin-top: -10rem;
+    }
+
+    .br {
+        display: none;
+    }
+
+    .pt-5,
+    .py-5 {
+        padding-top: 0rem !important;
+        margin-top: 15px;
+    }
+
+    .home-icon {
+        height: auto;
+    }
+
+    .h3 {
+        font-size: 1rem;
+        color: #0a83ff;
+        text-align: center;
+    }
+
+    .paragraf {
+        font-size: 10px;
+    }
+
+    .fa-4x {
+        font-size: 2em;
+    }
+
+    #home-heading {
+        min-height: 80px;
+        background-size: 200px;
+    }
+
+    #info {
+        margin-top: 15px;
+        height: 390%;
+    }
+
+    #video {
+        min-height: 80px;
+        background-size: 200px;
+    }
+
+    .img-fluid {
+        max-width: 40%;
+        height: auto;
+        margin-left: 11rem;
+
+        display: block;
+    }
+
+    #gallery {
+        margin-top: 2rem;
+    }
+
+    #texth1 {
+        margin-top: 30px;
+        font-size: 1.3rem;
+    }
+
+    .m-1 p {
+        font-size: 10px;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 0rem;
+    }
+
+    #address {
+        font-size: 9px;
+        margin-top: -1rem;
+    }
+
+    #title {
+        margin-left: 1rem;
+        font-size: 1rem;
+    }
+
+    .title {
+        margin-right: -5rem;
+        font-size: 1rem;
+    }
+
+    .btmspace-10 {
+        margin-right: -5rem;
+        font-size: 9px;
+        display: grid;
+    }
+
+    #p {
+        font-size: 9px;
+        margin-right: -5rem;
+    }
+
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 9px;
+    }
+}
+
+
+@media(min-width:576px) and (max-width:768px) {
+    #img {
+        width: 100px;
+    }
+
+    #h1 {
+        text-align: center;
+        font-size: 20px;
+        margin-right: 10rem;
+    }
+
+    .phone {
+        font-size: small;
+        margin-top: -1rem;
+    }
+
+    #showcase {
+        height: 230%;
+    }
+
+    .d-none {
+        display: block;
+    }
+
+    .mb-5,
+    .my-5 {
+        margin-bottom: -3rem !important;
+    }
+
+    .lead {
+        font-size: 12px;
+    margin-top: -32px;
+    }
+
+    .display-3 {
+       font-size: 20px;
+    margin-top: -13rem;
+    }
+    .br {
+        display: none;
+    }
+
+    .pt-5,
+    .py-5 {
+        padding-top: 0rem !important;
+        margin-top: 15px;
+    }
+
+    .home-icon {
+        height: 500%;
+    }
+    #home-icon-img {
+        margin-top: 6rem;
+    height: 46%;
+    }
+
+    .h3 {
+        font-size: 1rem;
+        color: #0a83ff;
+        text-align: center;
+    }
+
+    .paragraf {
+        font-size: 12px;
+    }
+
+    .fa-4x {
+        font-size: 2em;
+    }
+
+    #home-heading {
+        min-height: 80px;
+        background-size: 200px;
+    }
+
+    #info {
+        margin-top: 15px;
+        height: 390%;
+    }
+
+    #video {
+        min-height: 80px;
+        background-size: 200px;
+    }
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin-top: 6rem;
+    }
+
+    #gallery {
+        margin-top: 2rem;
+    }
+
+    #texth1 {
+        margin-top: 30px;
+        font-size: 1.3rem;
+    }
+
+    .m-1 p {
+        font-size: 12px;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 0rem;
+    }
+
+    #address {
+        font-size: 12px;
+        margin-top: -1rem;
+    }
+
+    #title {
+        margin-left: 1rem;
+        font-size: 1rem;
+    }
+
+    .title {
+        margin-right: -5rem;
+        font-size: 1rem;
+    }
+
+    .btmspace-10 {
+        margin-right: -5rem;
+        font-size: 12px;
+        display: grid;
+    }
+
+    #p {
+        font-size: 9px;
+        margin-right: -5rem;
+    }
+
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 9px;
+    }
+    #gl-hr {
+        margin-top: 6rem;
+    }
+}
+
+
+@media(min-width:769px) and (max-width:992px) {
+    #client {
+        margin-top: 2rem;
+    }
+    .aos-img{
+        height: 23rem;
+        max-width: 100%;
+    }  
+    #img {
+        width: 100px;
+    }
+
+    #h1 {
+        text-align: center;
+        font-size: 20px;
+        margin-right: 10rem;
+    }
+
+    .phone {
+        font-size: small;
+        margin-top: -1rem;
+    }
+
+    #showcase {
+        height: 230%;
+    }
+
+    .d-none {
+        display: block;
+    }
+
+    .mb-5,
+    .my-5 {
+        margin-bottom: -3rem !important;
+    }
+
+    .lead {
+        font-size: 12px;
+    margin-top: -32px;
+    }
+
+    .display-3 {
+       font-size: 20px;
+    margin-top: -13rem;
+    }
+    .br {
+        display: none;
+    }
+
+    .pt-5,
+    .py-5 {
+        padding-top: 0rem !important;
+        margin-top: 15px;
+    }
+
+    .home-icon {
+        height: auto;
+    }
+
+    .h3 {
+        font-size: 1rem;
+        color: #0a83ff;
+        text-align: center;
+    }
+
+    .paragraf {
+        font-size: 12px;
+    }
+
+    .fa-4x {
+        font-size: 2em;
+    }
+
+    #home-heading {
+        min-height: 80px;
+        background-size: 200px;
+    }
+
+    #info {
+        margin-top: 15px;
+        height: 390%;
+    }
+
+    #video {
+        min-height: 80px;
+        background-size: 200px;
+    }
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin-top: 6rem;
+    }
+
+    #gallery {
+        margin-top: 2rem;
+    }
+
+    #texth1 {
+        margin-top: 30px;
+        font-size: 1.3rem;
+    }
+
+    .m-1 p {
+        font-size: 12px;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 0rem;
+    }
+
+    #address {
+        font-size: 12px;
+        margin-top: -1rem;
+    }
+
+    #title {
+        margin-left: 1rem;
+        font-size: 1rem;
+    }
+
+    .title {
+        margin-right: -5rem;
+        font-size: 1rem;
+    }
+
+    .btmspace-10 {
+        margin-right: -5rem;
+        font-size: 12px;
+        display: grid;
+    }
+
+    #p {
+        font-size: 9px;
+        margin-right: -5rem;
+    }
+
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 9px;
+    }
+}
+
+@media(min-width:993px) and (max-width:1200px) {
+ #client {
+        margin-top: 2rem;
+    }
+    .aos-img{
+        height: 23rem;
+        max-width: 100%;
+    }  
+    #img {
+        width: 100px;
+    }
+
+    #h1 {
+        text-align: center;
+        font-size: 20px;
+        margin-right: 10rem;
+    }
+
+    .phone {
+        font-size: small;
+        margin-top: -1rem;
+    }
+
+    #showcase {
+        height: 230%;
+    }
+
+    .d-none {
+        display: block;
+    }
+
+    .mb-5,
+    .my-5 {
+        margin-bottom: -3rem !important;
+    }
+
+    .lead {
+        font-size: 12px;
+    margin-top: -32px;
+    }
+
+    .display-3 {
+       font-size: 20px;
+    margin-top: -13rem;
+    }
+    .br {
+        display: none;
+    }
+
+    .pt-5,
+    .py-5 {
+        padding-top: 0rem !important;
+        margin-top: 15px;
+    }
+
+    .home-icon {
+        height: auto;
+    }
+    #home-icon-img {
+        height: 23rem;
+        margin-top: 2rem;
+    }
+    
+    .h3 {
+        font-size: 1rem;
+        color: #0a83ff;
+        text-align: center;
+    }
+
+    .paragraf {
+        font-size: 12px;
+    }
+
+    .fa-4x {
+        font-size: 2em;
+    }
+
+    #home-heading {
+        min-height: 80px;
+        background-size: 200px;
+    }
+
+    #info {
+        margin-top: 15px;
+        height: 390%;
+    }
+
+    #video {
+        min-height: 80px;
+        background-size: 200px;
+    }
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin-top: 6rem;
+    }
+
+    #gallery {
+        margin-top: 2rem;
+    }
+
+    #texth1 {
+        margin-top: 30px;
+        font-size: 1.3rem;
+    }
+
+    .m-1 p {
+        font-size: 12px;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 0rem;
+    }
+
+    #address {
+        font-size: 12px;
+        margin-top: -1rem;
+    }
+
+    #title {
+        margin-left: 1rem;
+        font-size: 1rem;
+    }
+
+    .title {
+        margin-right: -5rem;
+        font-size: 1rem;
+    }
+
+    .btmspace-10 {
+        margin-right: -5rem;
+        font-size: 12px;
+        display: grid;
+    }
+
+    #p {
+        font-size: 9px;
+        margin-right: -5rem;
+    }
+
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 9px;
+    }   
+}

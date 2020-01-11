@@ -1,0 +1,43 @@
+/*
+@import url("fontawesome-4.2.0.min.css");
+@import url("framework.css");
+.row5{color:#888888; background-color:#232323; border-color:#8ABA56;}
+.row5{border-top:1px solid;}
+
+
+.faico{margin:0; padding:0; list-style:none;}
+.faico li{display:inline-block; float:left; margin:0; padding:0; line-height:normal;}
+.faico li:last-child{margin-right:0;}
+
+.faico a{display:block; width:30px; height:30px; line-height:30px; font-size:16px; text-align:center;}
+.faico a{color:#FFFFFF; background-color:#111111;}
+
+.faicon-dribble:hover{background-color:#EA4C89;}
+.faicon-facebook:hover{background-color:#3B5998;}
+.faicon-google-plus:hover{background-color:#DB4A39;}
+.faicon-linkedin:hover{background-color:#0E76A8;}
+.faicon-pinterest:hover{background-color:#C8232C;}
+.faicon-rss:hover{background-color:#EE802F;}
+.faicon-twitter:hover{background-color:#00ACEE;}
+
+
+#footer{padding:50px 0;}
+
+#footer .title{margin:0 0 30px 0; padding:0 0 8px 0; border-bottom:1px solid; font-size:16px; text-transform:uppercase;}
+
+#footer .linklist li{margin-bottom:15px;}
+#footer .linklist li:last-child{margin-bottom:0;}
+
+#footer .smallfont{font-size:.8rem; margin:0;}
+
+#footer input, #footer button{border:none;}
+#footer input{display:block; width:100%; padding:8px;}
+#footer button{padding:6px 12px 8px; font-weight:bold; text-transform:uppercase; cursor:pointer;}
+
+#footer .title{border-color:#111111;}
+#footer input{background-color:#111111;}
+#footer button{color:#FFFFFF; background-color:#8ABA56; text-shadow:0 -1px 1px rgba(0,0,0,.5);}
+
+#footer .faico a{color:inherit;}
+#footer .faico a:hover{color:#FFFFFF;}
+*/
